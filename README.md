@@ -1,4 +1,4 @@
-# The Knight's Tour Problem.
+# The Knight's Tour Problem
 A knight's tour is a sequence of moves of a knight on a chessboard such that the knight visits every square exactly once. This type of problem is an instance of a more general Hamiltonian Path problem in graph theory. If a knight's tour ends in a space that is one move away from the starting position, it is considered a closed tour. This program was written with open tours in mind, but may be modified fairly easily to account for closed tours.
 
 ### Board:
